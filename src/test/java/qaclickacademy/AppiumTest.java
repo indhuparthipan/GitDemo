@@ -10,7 +10,11 @@ public class AppiumTest{
 	{
 	    System.out.println("Android App");
 	}
-
+	@Test
+	public void AndroidApps()
+	{
+	    System.out.println("Android Apps");
+	}
 	@Test
 	public void IOSApp()
 	{
